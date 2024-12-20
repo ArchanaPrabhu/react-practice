@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "Cook rice",
+    "completed": true
+  },
+  {
+    "id": 2,
+    "name": "Cook curry",
+    "completed": false
+  }
+]
